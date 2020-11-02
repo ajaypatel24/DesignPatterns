@@ -1,0 +1,4 @@
+Strategy.java: interface to be implemented by subclasses to allow polymorphism of a certain method
+Context.java: executes specific Strategy according to subclass passed to context 
+
+Addition and Subtraction implement the doOperation method in different ways and are executed in Context.java

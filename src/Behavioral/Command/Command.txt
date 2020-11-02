@@ -1,0 +1,2 @@
+Give objects behaviors, allow those different behaviors to be executed by another object
+-this other object that executes behaviors is called the invoker, choice of execution depends on polymorphism of Order

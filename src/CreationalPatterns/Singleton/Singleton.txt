@@ -1,0 +1,2 @@
+Allow creation of a single instance of object
+//create instance in singleobject class, access done only through method getInstance()

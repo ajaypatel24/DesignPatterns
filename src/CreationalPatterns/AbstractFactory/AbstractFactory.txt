@@ -1,0 +1,3 @@
+Allows creation of factories to create objects
+-create multiple factories to make multiple types of objects
+-very similar to Factory, the key is FactoryProducer according to conditions to create factory

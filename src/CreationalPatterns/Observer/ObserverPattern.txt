@@ -1,0 +1,1 @@
+Allow for all subclasses to change upon the change of one value instead of changing all at once

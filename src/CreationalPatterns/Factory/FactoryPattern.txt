@@ -1,0 +1,6 @@
+-Factory pattern allows creation of objects without exposing creation logic to client
+-able to create all objects with common interface
+
+-Factory class: determines what object is created according to string passed
+-Superclass interface
+-all subclasses implement interface

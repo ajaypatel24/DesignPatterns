@@ -1,0 +1,2 @@
+-Create complex object using simple objects
+-many classes for differetn objects, use mealbuilder to create different complex objects

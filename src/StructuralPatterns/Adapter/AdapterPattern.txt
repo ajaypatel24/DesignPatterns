@@ -1,0 +1,2 @@
+-bridge between two incompatible interfaces
+-single class to join functionalities of independant incompatible interfaces
